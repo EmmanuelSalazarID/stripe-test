@@ -53,7 +53,7 @@ E/unknown:ReactNative: Exception in native call
 
 ### Using scripts from console
 
-`yarn ios` or `yarn android`
+`yarn android`
 
 
 ## Screens
